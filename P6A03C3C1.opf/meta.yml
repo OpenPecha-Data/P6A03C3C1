@@ -1,0 +1,31 @@
+id: P6A03C3C1
+initial_creation_type: input
+source_metadata:
+  title: Saving Lives Series
+  language: bo
+  description: 'The following texts are currently available as part of our Saving
+    Lives series:'
+  volume:
+    d897d5ff7f2f4c5f93a477a6f93e04fa:
+      title: 'The Stairway to Great Bliss: A Method for Planting the Seed of Liberation
+        in Animals'
+      parent: Practices
+    1f9aa7d00cb841a4bc7a50c3017c2f82:
+      title: 'The Essence of Benefit and Happiness: A Method for Saving Lives'
+      parent: Practices
+    63d0b649ac3046b7b78efcfb20f827b9:
+      title: 'Increasing Life and Vitality: A Practice for Freeing Lives'
+      parent: Practices
+    d3e43ad909ae4840990e588856b35a3c:
+      title: 'A River Filled with the Amṛta of Love: A Liturgy for Saving and Releasing
+        the Lives of Animals'
+      parent: Practices
+    4e9a417f517f4eed91c2ec43171379b5:
+      title: 'The Glorious Gift of Longevity and Granting All Desires: A Liturgy for
+        Saving Lives'
+      parent: Practices
+    2126cccb7f83405d87c2c4cc4dc9cae4:
+      title: The Benefits of Saving Lives
+      parent: Commentaries
+created_at: '2022-03-01T05:42:44.274145'
+last_modified_at: '2022-03-01T05:42:44.274147'
